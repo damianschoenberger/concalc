@@ -219,6 +219,7 @@ const ai = {
       "what is climate change?": "Climate change refers to long-term changes in temperature and weather patterns, mainly due to human activities like burning fossil fuels.",
       "how do you bake cookies?": "Mix flour, sugar, butter, and eggs, add chocolate chips, shape into small balls, and bake at 350°F (175°C) for about 10 minutes.",
       "why do cats purr?": "Cats purr as a way to communicate and often do so when they are happy, relaxed, or seeking comfort."
+      "Moini Hosting": "Moini Hosting on Top xD"
     };    
 
     return answers[input] || "Sorry, I don't understand your question.";
