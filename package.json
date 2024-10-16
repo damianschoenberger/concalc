@@ -1,0 +1,14 @@
+{
+  "name": "concalc",
+  "version": "1.1.9",
+  "description": "A simple console calculator for your Console",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "Moini Hosting",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
